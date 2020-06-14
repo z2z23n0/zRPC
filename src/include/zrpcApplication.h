@@ -1,6 +1,8 @@
 #pragma once
 
 #include "zrpcConfig.h"
+#include "zrpcChannel.h"
+#include "zrpcController.h"
 
 // zrpc框架的基础类，负责框架的一些初始化操作
 class ZrpcApplication
